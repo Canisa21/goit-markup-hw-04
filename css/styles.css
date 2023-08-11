@@ -492,10 +492,10 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
     gap: 16px;
     padding-top: 16px;
 }
-.sm-icon>a {
+.sm-icon {
     fill:rgba(77, 90, 229, 1);
 }
 
-.sm-icon>a:hover {
+.sm-icon:hover {
    fill: rgba(49, 208, 170, 1);
 }
